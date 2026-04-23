@@ -1,0 +1,6 @@
+region = "ap-south-1"
+ami = "ami-0e12ffc2dd465f6e4"
+instance_type = "t3.micro"
+key_name = "server.key"
+sg_group = "sg-092647d17dab642f7"
+subnet_id = "subnet-000e0202b78f46120"
